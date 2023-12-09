@@ -60,3 +60,61 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoujonikiAsa2&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joujonikiasa2&theme=blueberry)
 
+## Projects
+
+<div>
+ 
+ ### 1. InsightBloom ( A forum website)<br/>
+
+**Live link:**  <a href="https://insightbloom-forum-project.netlify.app">InsightBloom</a>
+
+**Repository Link:** <br/>
+
+Client Side: <a href="https://github.com/programming-hero-web-course1/b8a12-client-side-JoujonikiAsa2">Click Here</a> <br/>
+Server Side: <a href="https://github.com/programming-hero-web-course1/b8a12-server-side-JoujonikiAsa2">Click Here</a>
+
+Admin email: asanibedita@gmail.com <br/>
+Admin password: Nibedita@
+
+#### Top Features of This Project:
+- Post management: It helps user to create post delete post and report against bad comment.
+- User management: Admin can manage the user role and can delete reported comment.
+- Contract Management: Admin can publish announcement.
+- User Roles: Assign roles and permissions to different user types.
+
+
+### 2. Study Together ( A assignment sharing website)<br/>
+
+**Live link:**  <a href="https://symphonious-kangaroo-78a9ea.netlify.app">Study Together</a>
+
+**Repository Link:** <br/>
+
+Client Side: <a href="https://github.com/Porgramming-Hero-web-course/b8a11-client-side-JoujonikiAsa2">Click Here</a> <br/>
+Server Side: <a href="https://github.com/Porgramming-Hero-web-course/b8a11-server-side-JoujonikiAsa2">Click Here</a>
+
+#### Top Features of This Project:
+- Create assignment: It helps user to create assignment.
+- Update Assignment: User who created the assignment can update the assignent.
+- Delete Assignment: User who created the assignment can delete the assignent.
+- Give marks: Any user can give marks to other's assignment.
+
+### 3. FusionElectroHub (A online shop of Electrical tecnology)<br/>
+
+**Live link:**  <a href="https://fusionelectrohub.web.app">FusionElectroHub</a>
+
+**Repository Link:** <br/>
+
+Client Side: <a href="https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-JoujonikiAsa2">Click Here</a> <br/>
+Server Side: <a href="https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-JoujonikiAsa2">Click Here</a>
+
+#### Top Features of This Project:
+- User can add product
+- User can delete product
+- User can update product
+- User can buy product
+</div>
+
+
+
+
+
