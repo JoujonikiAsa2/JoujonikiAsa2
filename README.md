@@ -83,6 +83,13 @@ Admin password: Nibedita@
 :heavy_check_mark:  Contract Management: Admin can publish announcement.  </br>
 :heavy_check_mark:  User Roles: Assign roles and permissions to different user types.  </br>
 
+#### Technologies Used
+
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS frameworks 
+- **Backend:** Node.js Express.js MongoDB
+- **Authentication:** JSON Web Tokens (JWT) for session management
+- **Payment Integration:** Stripe or other payment gateway services
+
 
 ### 2. Study Together ( A assignment sharing website)<br/>
 
@@ -99,6 +106,11 @@ Server Side: <a href="https://github.com/Porgramming-Hero-web-course/b8a11-serve
 :heavy_check_mark: Delete Assignment: User who created the assignment can delete the assignent.  </br>
 :heavy_check_mark: Give marks: Any user can give marks to other's assignment.  </br>
 
+#### Technologies Used
+
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS frameworks </br> 
+- **Backend:** Node.js Express.js MongoDB </br> 
+
 ### 3. FusionElectroHub (A online shop of Electrical tecnology)<br/>
 
 **Live link:**  <a href="https://fusionelectrohub.web.app">FusionElectroHub</a> 	:link:
@@ -113,6 +125,12 @@ Server Side: <a href="https://github.com/programming-hero-web-course-4/b8a10-bra
 :heavy_check_mark: User can delete product </br>
 :heavy_check_mark: User can update product </br>
 :heavy_check_mark: User can buy product </br>
+
+#### Technologies Used
+
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS frameworks </br> 
+- **Backend:** Node.js Express.js MongoDB </br> 
+
 </div>
 
 
