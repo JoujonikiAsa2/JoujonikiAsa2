@@ -1,10 +1,10 @@
-<img src="./github-cover.png" />
+<img src="./github-cover-1.png" />
 <h2 align="center">Hi, I am Joujoniki Asa Roy</h2>
 <h3 align="center">Passionate about crafting engaging user experiences</h3>
 
  ## About Me 📄
 
-<p align="center">I am Joujoniki Asa Roy. Currently i am studying at Daffodil International University. My journey over the past year has been dedicated to enhanching the skills of <span > MERN STACK DEVELOPMENT</span>. I've immersed myself in the world of web technologies, focus on React.js, Express.js, MongoDB, and the utility-first CSS framework Tailwind CSS</p>
+<p align="center">I am Joujoniki Asa Roy. Currently i am studying at Daffodil International University. My journey over the past year has been dedicated to enhanching the skills of <span > FRONT-END DEVELOPMENT</span>. I've immersed myself in the world of web technologies, focus on React.js and the utility-first CSS framework Tailwind CSS also at Express.js and MongoDB, </p>
 <br/>
 
 ## Get in Touch	:link:
