@@ -1,5 +1,9 @@
-### Hi there 👋
+<img src="./github-cover.png"/>
+<h3 align="center">Passionate about crafting engaging user experiences</h3>
 
+## About Me 📄
+
+<p>I am Joujoniki Asa Roy. Currently i am studying at Daffodil International University. My journey over the past year has been dedicated to enhanching the skills of <span > MERN STACK DEVELOPMENT</span>. I've immersed myself in the world of web technologies, focus on React.js, Express.js, MongoDB, and the utility-first CSS framework Tailwind CSS</p>
 <!--
 **JoujonikiAsa2/JoujonikiAsa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
