@@ -45,3 +45,18 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
+## Profile Summery
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joujonikiasa2&theme=blueberry)
+
+## Current Stat
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoujonikiAsa2&theme=blueberry)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoujonikiAsa2&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoujonikiAsa2&theme=blueberry&utcOffset=8)
+
+## Top Language
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoujonikiAsa2&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joujonikiasa2&theme=blueberry)
+
