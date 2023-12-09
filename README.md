@@ -1,4 +1,5 @@
 <img src="./github-cover.png" />
+<h2 align="center">Hi, I am Joujoniki Asa Roy</h2>
 <h3 align="center">Passionate about crafting engaging user experiences</h3>
 
  ## About Me 📄
