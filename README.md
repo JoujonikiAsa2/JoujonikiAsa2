@@ -55,7 +55,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoujonikiAsa2&theme=blueberry)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoujonikiAsa2&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoujonikiAsa2&theme=blueberry&utcOffset=8)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitbd599&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoujonikiAsa2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Top Language
 
