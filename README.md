@@ -1,10 +1,9 @@
-<img src="./github-cover-1.png" />
 <h2 align="center">Hi, I am Joujoniki Asa Roy</h2>
 <h3 align="center">Passionate about crafting engaging user experiences</h3>
 
  ## About Me 📄
 
-<p align="center">I am Joujoniki Asa Roy. Currently i am studying at Daffodil International University. My journey over the past year has been dedicated to enhanching the skills of <span > FRONT-END DEVELOPMENT</span>. I've immersed myself in the world of web technologies, focus on React.js and the utility-first CSS framework Tailwind CSS also at Express.js and MongoDB, </p>
+<p align="start">I am Joujoniki Asa Roy. Currently i am studying at Daffodil International University. My journey over the past year has been dedicated to enhanching the skills of <span > FRONT-END DEVELOPMENT</span>. I've immersed myself in the world of web technologies, focus on React.js and the utility-first CSS framework Tailwind CSS also at Express.js and MongoDB, </p>
 <br/>
 
 ## Get in Touch	:link:
@@ -52,47 +51,40 @@
 
 ### Current Stat
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoujonikiAsa2&theme=blueberry)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoujonikiAsa2&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoujonikiAsa2&theme=blueberry&utcOffset=8)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoujonikiAsa2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Top Language
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoujonikiAsa2&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joujonikiasa2&theme=blueberry)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoujonikiAsa2&theme=blueberry)](https://git.io/streak-stats) </br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoujonikiAsa2&theme=blueberry)</br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoujonikiAsa2&theme=blueberry&utcOffset=8)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoujonikiAsa2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 
 ## Projects :sparkles:
 
 <div>
  
- ### 1. InsightBloom ( A forum website)<br/>
-
-**Live link:**  <a href="https://insightbloom-forum-project.netlify.app">InsightBloom</a> 	:link:
+ ### 1. WisdomWave ( An e-learning and tutor finding website)<br/>
+**Preview:** </br> <img src="./wisdomwave.png"/> </br>
+**Live link:**  <a href="https://wisdomwave-project.netlify.app/">WisdomWave</a> 	:link:
 
 **Repository Link:** <br/>
 
-Client Side: <a href="https://github.com/programming-hero-web-course1/b8a12-client-side-JoujonikiAsa2">Click Here</a> :link: <br/> 
-Server Side: <a href="https://github.com/programming-hero-web-course1/b8a12-server-side-JoujonikiAsa2">Click Here</a> 	:link:
-
-Admin email: asanibedita@gmail.com <br/>
-Admin password: Nibedita@
+Client Side: <a href="https://github.com/JoujonikiAsa2/wisdomwave-client-side">Click Here</a> :link: <br/> 
+Server Side: <a href="https://github.com/JoujonikiAsa2/wisdomwave-server-side">Click Here</a> 	:link:
 
 #### Top Features of This Project:
-:heavy_check_mark: Post management: It helps user to create post delete post and report against bad comment.  </br> 
-:heavy_check_mark:  User management: Admin can manage the user role and can delete reported comment.  </br>
-:heavy_check_mark:  Contract Management: Admin can publish announcement.  </br>
-:heavy_check_mark:  User Roles: Assign roles and permissions to different user types.  </br>
+:heavy_check_mark: Buy Course: It helps student to buy course and learn.  </br> 
+:heavy_check_mark: Find Tutor: It helps student to find tutor based on their profile.  </br> 
+:heavy_check_mark:  Create Course: It helps instructor to create and manage course.  </br>
+:heavy_check_mark:  Create profile: It helps tutor to create profile.  </br>
+:heavy_check_mark:  Management: It helps admin to manage all users and activities.  </br>
 
 #### Technologies Used
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS frameworks 
-- **Backend:** Node.js Express.js MongoDB
-- **Authentication:** JSON Web Tokens (JWT) for session management
-- **Payment Integration:** Stripe or other payment gateway services
+- **Backend:** Node.js, Express.js, Mongoose
+- **Authentication:** Firebase, JSON Web Tokens (JWT) for session management
+- **Payment Integration:** sslcommerz
 
 
-### 2. Study Together ( A assignment sharing website)<br/>
+### 3. Study Together ( A assignment sharing website)<br/>
 
 **Live link:**  <a href="https://symphonious-kangaroo-78a9ea.netlify.app">Study Together</a> 	:link:
 
@@ -112,28 +104,9 @@ Server Side: <a href="https://github.com/Porgramming-Hero-web-course/b8a11-serve
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS frameworks </br> 
 - **Backend:** Node.js Express.js MongoDB </br> 
 
-### 3. FusionElectroHub (A online shop of Electrical tecnology)<br/>
-
-**Live link:**  <a href="https://fusionelectrohub.web.app">FusionElectroHub</a> 	:link:
-
-**Repository Link:** <br/>
-
-Client Side: <a href="https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-JoujonikiAsa2">Click Here</a> 	:link: <br/> 
-Server Side: <a href="https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-JoujonikiAsa2">Click Here</a> 	:link:
-
-#### Top Features of This Project:
-:heavy_check_mark: User can add product </br>
-:heavy_check_mark: User can delete product </br>
-:heavy_check_mark: User can update product </br>
-:heavy_check_mark: User can buy product </br>
-
-#### Technologies Used
-
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS frameworks </br> 
-- **Backend:** Node.js Express.js MongoDB </br> 
-
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=JoujonikiAsa2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
