@@ -1,49 +1,29 @@
-<h2 align="center">Hi, I am Joujoniki Asa Roy</h2>
-<h3 align="center">Passionate about crafting engaging user experiences</h3>
+<h2 align="center">👋 Hi, I am Joujoniki Asa Roy</h2>
 
- ## About Me 📄
+ ## 📄 About Me 
 
-<p align="start">I am Joujoniki Asa Roy. Currently i am studying at Daffodil International University. My journey over the past year has been dedicated to enhanching the skills of <span > FRONT-END DEVELOPMENT</span>. I've immersed myself in the world of web technologies, focus on React.js and the utility-first CSS framework Tailwind CSS also at Express.js and MongoDB, </p>
-<br/>
+<p align="start">I am a passionate developer with a strong focus on Front-End Development. Over the past year, I’ve been dedicated to honing my skills in web technologies, with a particular emphasis on React.js and Tailwind CSS for building dynamic and responsive interfaces. I've also expanded my knowledge into backend technologies, working with Express.js and MongoDB to create full-stack applications. I recently completed my graduation from Daffodil International University, and I’m excited to continue growing and contributing to innovative web projects.</p>
 
-## Get in Touch	:link:
+## 🌐 Socials 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/joujoniki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joujonikiasaroy)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/joujonikiasaroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joujoniki Asa Roy" height="20" width="20" /></a><span>&nbsp;&nbsp;</span>
-<a href="https://www.facebook.com/joujoniki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joujoniki Asa Roy" height="20" width="20" /></a>
-</p>
-
-## What I do 🌐
+## 📋 What I do
 
 - Designing interactive and user-centric interfaces leveraging the power of React.
 - Developing RESTful APIs using Node.js and Express for robust and scalable backend solutions.
 - Incorporating MongoDB, managed through Mongoose, to facilitate efficient database management.
 - Ensuring a smooth end-to-end user experience
 
-## Current Overview :eye_speech_bubble:
+## :eye_speech_bubble: Current Overview
 
-🔭 I’m learning - at Programming Hero. <br/>
 🌱 I’m exploring -  React framework .  <br/>
 👯 I’m looking - To collaborate on open source projects.   <br/>
 🤔 I’m trying - To help people learn web development. <br/>
 
 
-## Technologies that I know :computer: 
+## :computer: Technologies that I know
 
-<br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Profile Summery :scroll:
 
@@ -84,7 +64,7 @@ Server Side: <a href="https://github.com/JoujonikiAsa2/wisdomwave-server-side">C
 - **Payment Integration:** sslcommerz
 
 
-### 3. Study Together ( A assignment sharing website)<br/>
+### 2. Study Together ( A assignment sharing website)<br/>
 
 **Live link:**  <a href="https://symphonious-kangaroo-78a9ea.netlify.app">Study Together</a> 	:link:
 
