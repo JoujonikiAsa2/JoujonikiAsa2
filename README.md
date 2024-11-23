@@ -18,7 +18,7 @@
 
 🌱 I’m exploring -  React framework .  <br/>
 👯 I’m looking - To collaborate on open source projects.   <br/>
-🤔 I’m trying - To help people learn web development. <br/>
+🤔 I’m trying - learn web development. <br/>
 
 
 ## :computer: Technologies that I know
