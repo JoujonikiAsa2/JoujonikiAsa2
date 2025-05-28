@@ -39,8 +39,45 @@
 ## Projects :sparkles:
 
 <div>
- 
- ### 1. WisdomWave ( An e-learning and tutor finding website)<br/>
+  ### 2. Nordcom (E-commerce website)<br/>
+
+**Live link:**  <a href="https://nordcom-marketplace.vercel.app//">Nordcom</a> 	:link:
+
+**Repository Link:** <br/>
+
+Client Side: <a href="https://github.com/omarfarukesham/nordcom-clients">Click Here</a>	:link: <br/>
+Server Side: <a href="https://github.com/omarfarukesham/nordcom-backend-serverl">Click Here</a> 	:link:
+
+#### Top Features of This Project:
+:heavy_check_mark: Find Product: It helps the user to get product. </br>
+:heavy_check_mark: Add to Cart: User who want to buy a product for later can add to cart.</br>
+:heavy_check_mark: Buy Product: user can buy a product.</br>
+:heavy_check_mark: Give Reviewt: User can give review on product.</br>
+
+#### Technologies Used
+
+- **Frontend:** TypeScript, Next.js, Tailwind CSS </br> 
+- **Backend:** Node.js Express.js PostgreSQL, Prisma </br>
+
+  ### 2. Opinia ( A product review website)<br/>
+
+**Live link:**  <a href="https://review-protal.vercel.app/">Opinia</a> 	:link:
+
+**Repository Link:** <br/>
+
+Client Side: <a href="https://github.com/omarfarukesham/backend-server-review-portal">Click Here</a>	:link: <br/>
+Server Side: <a href="https://github.com/omarfarukesham/backend-server-review-portal">Click Here</a> 	:link:
+
+#### Top Features of This Project:
+:heavy_check_mark: Get Standard Review: It helps the user to get reviews. </br>
+:heavy_check_mark: Get Premium Review: User who paid for a premium review can access it.</br>
+
+#### Technologies Used
+
+- **Frontend:** TypeScript, Next.js, Tailwind CSS </br> 
+- **Backend:** Node.js Express.js PostgreSQL, Prisma </br>
+
+ ### 3. WisdomWave ( An e-learning and tutor finding website)<br/>
 **Preview:** </br> <img src="./wisdomwave.png"/> </br>
 **Live link:**  <a href="https://wisdomwave-project.netlify.app/">WisdomWave</a> 	:link:
 
@@ -62,27 +99,6 @@ Server Side: <a href="https://github.com/JoujonikiAsa2/wisdomwave-server-side">C
 - **Backend:** Node.js, Express.js, Mongoose
 - **Authentication:** Firebase, JSON Web Tokens (JWT) for session management
 - **Payment Integration:** sslcommerz
-
-
-### 2. Study Together ( A assignment sharing website)<br/>
-
-**Live link:**  <a href="https://symphonious-kangaroo-78a9ea.netlify.app">Study Together</a> 	:link:
-
-**Repository Link:** <br/>
-
-Client Side: <a href="https://github.com/Porgramming-Hero-web-course/b8a11-client-side-JoujonikiAsa2">Click Here</a>	:link: <br/>
-Server Side: <a href="https://github.com/Porgramming-Hero-web-course/b8a11-server-side-JoujonikiAsa2">Click Here</a> 	:link:
-
-#### Top Features of This Project:
-:heavy_check_mark: Create assignment: It helps user to create assignment. </br>
-:heavy_check_mark: Update Assignment: User who created the assignment can update the assignent.  </br>
-:heavy_check_mark: Delete Assignment: User who created the assignment can delete the assignent.  </br>
-:heavy_check_mark: Give marks: Any user can give marks to other's assignment.  </br>
-
-#### Technologies Used
-
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS frameworks </br> 
-- **Backend:** Node.js Express.js MongoDB </br> 
 
 </div>
 
