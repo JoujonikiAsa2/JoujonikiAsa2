@@ -39,7 +39,8 @@
 ## Projects :sparkles:
 
 <div>
-  ### 2. Nordcom (E-commerce website)<br/>
+ 
+### 1. Nordcom (E-commerce website)<br/>
 
 **Live link:**  <a href="https://nordcom-marketplace.vercel.app//">Nordcom</a> 	:link:
 
@@ -59,7 +60,7 @@ Server Side: <a href="https://github.com/omarfarukesham/nordcom-backend-serverl"
 - **Frontend:** TypeScript, Next.js, Tailwind CSS </br> 
 - **Backend:** Node.js Express.js PostgreSQL, Prisma </br>
 
-  ### 2. Opinia ( A product review website)<br/>
+### 2. Opinia ( A product review website)<br/>
 
 **Live link:**  <a href="https://review-protal.vercel.app/">Opinia</a> 	:link:
 
