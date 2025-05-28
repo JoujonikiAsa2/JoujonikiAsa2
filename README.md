@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="./github-cover-1.png"/>
 <h2 align="center">👋 Hi, I am Joujoniki Asa Roy</h2>
 
  ## 📄 About Me 
